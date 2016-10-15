@@ -10,4 +10,7 @@ permalink: >
 published: true
 custom_sidebar:
   - none
+wide_assets:
+  - ""
 ---
+ [connections]
